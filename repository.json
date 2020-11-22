@@ -1,5 +1,5 @@
 {
-  "name": "Homegear as a Hassio add-on",
+  "name": "homegear as a hassio add-on",
   "url": "https://github.com/foldvarycs/homegearmax",
-  "maintainer": "Bias"
+  "maintainer": "bias"
 }
